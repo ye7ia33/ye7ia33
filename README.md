@@ -1,4 +1,4 @@
-[![twitter badge](https://img.shields.io/badge/twitter-@AriVanider-blue?style=flat-square&logo=twitter)](https://twitter.com/ye7ia33)
+[![twitter badge](https://img.shields.io/badge/twitter-@ye7ia33-blue?style=flat-square&logo=twitter)](https://twitter.com/ye7ia33)
 
 <!--
 **ye7ia33/ye7ia33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
