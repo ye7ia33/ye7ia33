@@ -1,4 +1,4 @@
-https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif
+(https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)
 
 
 [![twitter badge](https://img.shields.io/badge/twitter-@ye7ia33-blue?style=flat-square&logo=twitter)](https://twitter.com/ye7ia33)
