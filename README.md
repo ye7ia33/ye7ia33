@@ -1,4 +1,4 @@
-(https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)
+(https://github.com/ye7ia33/ye7ia33/blob/master/Yahia-el-dow-.gif)
 
 
 [![twitter badge](https://img.shields.io/badge/twitter-@ye7ia33-blue?style=flat-square&logo=twitter)](https://twitter.com/ye7ia33)
